@@ -12,13 +12,27 @@
  *
  * References
  *
+ * Me: https://github.com/faffyman/
+ *
+ * ----------------------------------------------------------------------------------------------------------------
  * The Website: http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know
  *
  * The Book, By Kevlin Henney : http://amzn.to/xicw0B
  * Kindle Version of the book : http://amzn.to/wyVGPR
  * Twitter: twitter.com/KevlinHenney
  *
+ * ----------------------------------------------------------------------------------------------------------------
  *
+ * Do NOT Remove this licensing text.
+ * (NB this license applies to this PHP code NOT to the items within the 97 Things book)
+ * Licensed under Creative Commons 3.0 (Attribution / Share Alike)
+ * You Are Free to:
+ * to Share — to copy, distribute and transmit the work
+ * to Remix — to adapt the work
+ * to make commercial use of the work
+ *
+ * http://creativecommons.org/licenses/by-sa/3.0/
+ * ----------------------------------------------------------------------------------------------------------------
  */
 
 class nstepsk {
