@@ -1,8 +1,14 @@
 97 Things Daily
 ===================
 
+N.B. DEPRECATED
+-------------------
+
+The website for the book (http://programmer.97things.oreilly.com) is no more, since it was the source for the daily emails, the rest of this project is of no value.
+I do still encourage you to buy the book however - I did, it's a worthwhile purchase for any programmer, and a better read for your sales team.
+
 Based on the book [97Things Every Programmer Should Know][1]. **97ThingsDaily**
- is a script that is intended to email you a different *thing* each day.
+is a script that is intended to email you a different *thing* each day.
 
 It simply keeps a flat file logging the last thing that was emailed to you and works it's way through the entire list.
 
