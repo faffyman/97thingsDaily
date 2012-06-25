@@ -1,9 +1,6 @@
 97 Things Daily
 ===================
 
-N.B. DEPRECATED
--------------------
-
 Based on the book [97Things Every Programmer Should Know][1]. **97ThingsDaily**
 is a script that is intended to email you a different *thing* each day.
 
